@@ -1,0 +1,68 @@
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\bin\Debug\net10.0\NuGet.config
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\bin\Debug\net10.0\BibliotecaApi.staticwebassets.endpoints.json
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\bin\Debug\net10.0\BibliotecaApi.exe
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\bin\Debug\net10.0\BibliotecaApi.deps.json
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\bin\Debug\net10.0\BibliotecaApi.runtimeconfig.json
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\bin\Debug\net10.0\BibliotecaApi.dll
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\bin\Debug\net10.0\BibliotecaApi.pdb
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\BibliotecaApi.csproj.AssemblyReference.cache
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\BibliotecaApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\BibliotecaApi.AssemblyInfoInputs.cache
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\BibliotecaApi.AssemblyInfo.cs
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\BibliotecaApi.csproj.CoreCompileInputs.cache
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\BibliotecaApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\BibliotecaApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\scopedcss\bundle\BibliotecaApi.styles.css
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\staticwebassets.build.json
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\staticwebassets.development.json
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\swae.build.ex.cache
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\Bibliote.D044094E.Up2Date
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\BibliotecaApi.dll
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\refint\BibliotecaApi.dll
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\BibliotecaApi.pdb
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\BibliotecaApi.genruntimeconfig.cache
+E:\Área de Trabalho\Projeto_Base_Prova_P2_NovaApi\backend\obj\Debug\net10.0\ref\BibliotecaApi.dll
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\bin\Debug\net10.0\NuGet.config
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\bin\Debug\net10.0\BibliotecaApi.staticwebassets.endpoints.json
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\bin\Debug\net10.0\BibliotecaApi.exe
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\bin\Debug\net10.0\BibliotecaApi.deps.json
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\bin\Debug\net10.0\BibliotecaApi.runtimeconfig.json
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\bin\Debug\net10.0\BibliotecaApi.dll
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\bin\Debug\net10.0\BibliotecaApi.pdb
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\BibliotecaApi.csproj.AssemblyReference.cache
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\BibliotecaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\BibliotecaApi.AssemblyInfoInputs.cache
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\BibliotecaApi.AssemblyInfo.cs
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\BibliotecaApi.csproj.CoreCompileInputs.cache
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\BibliotecaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\BibliotecaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\scopedcss\bundle\BibliotecaApi.styles.css
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\Bibliote.D044094E.Up2Date
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\BibliotecaApi.dll
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\refint\BibliotecaApi.dll
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\BibliotecaApi.pdb
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\BibliotecaApi.genruntimeconfig.cache
+C:\Users\Unigran\Desktop\Projeto_Base_P2\backend\obj\Debug\net10.0\ref\BibliotecaApi.dll
