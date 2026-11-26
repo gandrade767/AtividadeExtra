@@ -4,7 +4,7 @@
 
 - Gabriel Andrade | 114.073
 - Guilherme Graces | 114.072
-- 
+
 # Backend do projeto-base
 
 Esta pasta contém uma Web API de atividades formativas. Ela foi preparada para fornecer dados ao front-end durante a prova prática.
